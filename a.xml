@@ -1,0 +1,6 @@
+<person>
+    <name>Tom</name>
+    <age>21</age>
+    <email>t@gmail.com</email>
+</person>
+<person><name>sun</name><age>20</age><email>sun@gmail.com</email></person>
