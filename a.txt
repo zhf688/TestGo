@@ -1,2 +1,2 @@
 |bufwriterd|hello go hello aaa===hello bbb|bufwriter
-aaaa|master
+aaaa|bug
